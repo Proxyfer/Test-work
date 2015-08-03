@@ -1,0 +1,18 @@
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Cash Machine\bin\Debug\Cash Machine.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Cash Machine\bin\Debug\Cash Machine.pdb
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Cash Machine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Cash Machine\obj\x86\Debug\Cash_Machine.Form1.resources
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Cash Machine\obj\x86\Debug\Cash_Machine.Properties.Resources.resources
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Cash Machine\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Cash Machine\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Cash Machine\obj\x86\Debug\Cash Machine.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Cash Machine\obj\x86\Debug\Cash Machine.pdb
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Cash Machine\Cash Machine\obj\x86\Debug\Cash Machine.exe
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Cash Machine\Cash Machine\obj\x86\Debug\Cash Machine.pdb
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Cash Machine\Cash Machine\bin\Debug\Cash Machine.exe
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Cash Machine\Cash Machine\bin\Debug\Cash Machine.pdb
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Cash Machine\Cash Machine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Cash Machine\Cash Machine\obj\x86\Debug\Cash_Machine.Form1.resources
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Cash Machine\Cash Machine\obj\x86\Debug\Cash_Machine.Properties.Resources.resources
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Cash Machine\Cash Machine\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\мои документы\visual studio 2010\Projects\Cash Machine\Cash Machine\obj\x86\Debug\GenerateResource.write.1.tlog
